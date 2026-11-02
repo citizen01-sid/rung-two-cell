@@ -1,0 +1,6 @@
+manifest.json
+receipts/*.log
+receipts/control*.json
+receipts/baseline*.json
+receipts/final.json
+receipts/unprivileged.stdout
